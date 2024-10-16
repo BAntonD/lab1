@@ -17,8 +17,8 @@ public class Main {
 
         System.out.println("Номер залікової якщо не помиляюся 2402");
         System.out.println("1 Завдання");
-        System.out.println("с5 = 2");
-        System.out.println("с7 = 1");
+        System.out.println("C5 = 2");
+        System.out.println("C7 = 1");
         System.out.println();
 
         // Виводжу початкову матрицю
@@ -56,7 +56,7 @@ public class Main {
 
         System.out.println();
         System.out.println("2 Завдання");
-        System.out.println("с11 = 4");
+        System.out.println("C11 = 4");
         System.out.println();
 
         // Ініціалізація змінних сум
